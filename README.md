@@ -1,15 +1,23 @@
-This is the GRE word program I wrote/used a few years ago. You are more than welcome to Download and use it. Currently the word translation is only available in Chinese. 
+Overview
+This program is designed to help users study and review GRE vocabulary words. It was originally created a few years ago and is now available for download and use. Currently, word translations are only available in Chinese.
+Word Importance Rating
+Words are categorized by importance using a star system:
 
-Three star word: very important
-Two Star word: commonly appeared
-One Star word: less appeared
+⭐⭐⭐ Three stars: Very important
+⭐⭐ Two stars: Commonly appeared
+⭐ One star: Less frequently appeared
 
-Usesage:
-newWord: Memorize new word
-reviewWord: review the word that you sees before in newWord
+Features
 
-For both newWord and reviewWord you and give a rating from 1 to 3 to represents familarity to this word
+newWord: Memorize new words
+reviewWord: Review previously seen words
+viewList: Print out a list of words you've encountered
+resetMas: Reset the vocabulary list (use with caution)
 
-viewList: printOut a List of word that you sees before
+Usage
+For both newWord and reviewWord functions:
 
-resetMas: you don't wanna do this. This resets the voc list. Do this only if you want to send this program to someone else. 
+You can rate your familiarity with each word on a scale of 1 to 3
+
+Important Note
+The resetMas function resets the entire vocabulary list. Only use this if you want to start over or if you're sharing the program with someone else.
