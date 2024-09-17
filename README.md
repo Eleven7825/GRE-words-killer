@@ -13,8 +13,11 @@ Words are categorized by importance using a star system:
 Features
 
 newWord: Memorize new words
+
 reviewWord: Review previously seen words
+
 viewList: Print out a list of words you've encountered
+
 resetMas: Reset the vocabulary list (use with caution)
 
 Usage
