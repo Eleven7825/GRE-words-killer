@@ -1,10 +1,13 @@
 Overview
+
 This program is designed to help users study and review GRE vocabulary words. It was originally created a few years ago and is now available for download and use. Currently, word translations are only available in Chinese.
 Word Importance Rating
 Words are categorized by importance using a star system:
 
 ⭐⭐⭐ Three stars: Very important
+
 ⭐⭐ Two stars: Commonly appeared
+
 ⭐ One star: Less frequently appeared
 
 Features
